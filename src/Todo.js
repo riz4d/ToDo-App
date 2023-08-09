@@ -77,7 +77,7 @@ class Ap extends React.Component{
                                 <td>{note}</td>
                                 <td>
                                   <button type="submit" class="btn btn-danger"  onClick={()=>{this.removenote(key)}}>Delete</button><br/><br/>
-                                  <button type="submit" class="btn btn-success ms-1" onClick={()=>this.finished(key)}>Finished</button>
+                                  <button type="submit" class="btn btn-success" onClick={()=>this.finished(key)}>Finished</button>
                                 </td>
                               </tr>
                                 )
