@@ -1,6 +1,6 @@
 # ToDo App in React
 
-![ToDo App Demo](https://todoapp.rizad.me/)
+[ToDo App Demo](https://todoapp.rizad.me/)
 
 A simple and react application that allows users to manage their tasks and to-do items.
 
